@@ -4,5 +4,4 @@ create vm for linux.
  * reconfig nic
  * add disk 
  * customize network 
- * add disk 
  * power on
